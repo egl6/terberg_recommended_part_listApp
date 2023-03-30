@@ -8,9 +8,9 @@ from openpyxl.styles import Font
 from io import BytesIO
 import base64
 
-st.set_page_config(page_title = 'TERBERG', layout='wide', page_icon='./terberg.png')
+st.set_page_config(page_title = 'BETA - TERBERG', layout='wide', page_icon='./terberg.png')
 
-st.title("Recommended Part List and Filter List For Your Fleet")
+st.title("BETA - Recommended Part List and Filter List For Your Fleet")
 
 tabs = st.tabs(["Welcome","Reccomended Parts","Filter List"])
 
