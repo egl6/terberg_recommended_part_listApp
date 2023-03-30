@@ -53,7 +53,7 @@ with tab_rec_parts:
         if st.session_state[i] == True:
             var = st.number_input('Number of '+i+' units:', min_value=1, step=1)
             qty_per_model[i] = var
-            excel_name = i+' Recom Part List.xlsx'
+            excel_name = i+' Recommended Part List.xlsx'
             files_name_list.append(excel_name)
 
     #st.write(files_name_list)
