@@ -18,7 +18,7 @@ tab_welcome = tabs[0]
 tab_rec_parts = tabs[1]
 tab_rec_filters = tabs[2]
 
-modelsp = ['YT193-08','YT223-27','RT283-12','RT323-05','RT403-17']
+modelsp = ['YT193-08','YT223-27', 'YT220-00','RT283-12','RT323-05','RT403-17']
 modelsf = ['YT193-08 ','YT220-00','YT223-27 ','RT283-12 ','RT403-17 ']
 
 # Create webpage
